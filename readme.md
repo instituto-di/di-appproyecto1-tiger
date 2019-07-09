@@ -1,6 +1,6 @@
 **AppEncuesta\_teamName:**
 
- ![Imagen1 del escenario principal](https://ana-lab@github.com/ana-lab/AppProyecto1/imagen1.jpg)
+ ![Imagen1 del escenario principal](imagen1.jpg)
 
 Cada equipo desarrollará una App con un escenario principal que incluya en un área central una imagen que sugiera encuestas. En el área superior, top, se incluya una barra de menú con un menú en la parte izquierda con diferentes menúitems uno por cada uno de los tipos de encuesta que se indicará  después. Otro menú en la parte derecha del top con los menuitem de ayuda y acerca de. Se supone un interfaz similar a:
 
@@ -26,6 +26,6 @@ Se crearán además varias UI (escenas gráficas) incorporando los controles nec
 
 Al presionar el botón enviar se grabará la información de la encuesta en un fichero llamado Enc\_Deporte.csv, Enc\_Comidas.csv, etc., con la fecha y hora del sistema y todos los datos introducidos en una línea. Cada campo de la línea se separará por &quot;;&quot;.
 
- ![Imagen2 de una de las encuestas del menú](https://ana-lab@github.com/ana-lab/AppProyecto1/imagen2.jpg)
+ ![Imagen2 de una de las encuestas del menú](imagen2.jpg)
 
 Ejemplo de encuesta de Deportes:
