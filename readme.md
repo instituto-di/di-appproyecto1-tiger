@@ -1,6 +1,6 @@
 # 1. **AppEncuesta\_teamName:**
 
- ![Image1 de la aplicación](Imagen1.jpg)
+ ![Image1 de la aplicación](imagen1.jpg)
 
 Cada equipo desarrollará una App con un escenario principal que incluya en un área central una imagen que sugiera encuestas. En el área superior, top, se incluya una barra de menú con un menú en la parte izquierda con diferentes menúitems uno por cada uno de los tipos de encuesta que se indicará  después. Otro menú en la parte derecha del top con los menuitem de ayuda y acerca de. Se supone un interfaz similar a:
 
@@ -26,7 +26,7 @@ Además se crearán por tanto varias UI (escenas gráficas) incorporando los con
 
 5. **Lectura** , tipo de lecturas, comics, novelas, ensayos, hábitos de lectura.
 
- ![Imagen2 de la aplicación](Imagen2.jpg)
+ ![Imagen2 de la aplicación](imagen2.jpg)
 
 
 
