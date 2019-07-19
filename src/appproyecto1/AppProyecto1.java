@@ -36,7 +36,7 @@ public class AppProyecto1 extends Application {
         
         Scene scene = new Scene(root, 300, 250);
         
-        primaryStage.setTitle("Hello World!");
+        primaryStage.setTitle("Hola Mundo de Tiger writing by acg!");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
